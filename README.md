@@ -27,8 +27,6 @@ Right now, I'm gaining hands-on experience through:
 
 ## 📬 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/onumick)
-- [GitHub](https://github.com/onumick)
-- [Portfolio Website](https://onumick.me/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/onumick)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/onumick/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/onumickofficial//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://onumick.me)  
 
 Thanks for stopping by. Let's build secure systems that actually work.
